@@ -1,0 +1,30 @@
+
+body{
+    background-color: #dafdff ;
+
+ }
+ hr{
+     background-color:grey;
+     border-style:none;
+     border-top-style: dotted;
+     border-width: 5px;
+     width: 5%;
+
+ }
+table{
+   border: orangered;
+   background-color: pink;
+}
+h2{
+    color: crimson;
+    background-color: darkkhaki;
+    font-style: italic;
+}
+h3{
+    color: crimson;
+    background-color: darkkhaki;
+
+}
+.img1{
+    border-radius: 100%;
+}
